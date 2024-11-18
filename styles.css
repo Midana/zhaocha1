@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.game-image {
+    width: 400px;
+    height: 300px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
